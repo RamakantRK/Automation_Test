@@ -1,0 +1,21 @@
+[INFO ] 2024-06-06 00:16:57.610 [main] LoggerTest - Chrome Launched
+[INFO ] 2024-06-06 00:16:57.689 [main] LoggerTest - Window Maximized
+[INFO ] 2024-06-06 00:16:57.699 [main] LoggerTest - Implicit Wait
+[INFO ] 2024-06-06 00:16:59.867 [main] LoggerTest - URL FB Launched
+[INFO ] 2024-06-06 00:16:59.882 [main] LoggerTest - Tile
+[INFO ] 2024-06-06 00:16:59.898 [main] LoggerTest - Current URL
+[INFO ] 2024-06-06 00:17:00.060 [main] LoggerTest - Email Entered
+[INFO ] 2024-06-06 00:17:00.200 [main] LoggerTest - Password Entered
+[INFO ] 2024-06-06 00:17:00.444 [main] LoggerTest - Browser Closed
+[DEBUG] 2024-06-06 00:39:17.491 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-06 00:39:17.503 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-06 00:39:17.507 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-06 00:48:42.733 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-06 00:48:42.743 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-06 00:48:42.745 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-06 00:54:15.380 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-06 00:54:15.392 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-06 00:54:15.394 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-06-06 01:38:29.134 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-06 01:38:29.138 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-06 01:38:29.139 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
